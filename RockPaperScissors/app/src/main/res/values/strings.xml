@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Rock Paper Scissors</string>
+    <string name="vs">VS</string>
+    <string name="game_over">Game Over</string>
+    <string name="scissors">Scissors</string>
+    <string name="paper">Paper</string>
+    <string name="rock">Rock</string>
+    <string name="lose">Lose:</string>
+    <string name="win">Win:</string>
+    <string name="score">Score:</string>
+    <string name="background">Background</string>
+    <string name="yourchoice">Your Choice</string>
+    <string name="appchoice">App Choice</string>
+</resources>
